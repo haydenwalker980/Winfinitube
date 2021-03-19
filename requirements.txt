@@ -54,7 +54,7 @@ django==3.0.7
     #   django-qsessions
     #   django-rq
     #   djangorestframework
-djangorestframework==3.11.0
+djangorestframework==3.11.2
     # via -r requirements.in
 fixedint==0.1.5
     # via -r requirements.in
